@@ -19,7 +19,7 @@
 
 1. __Clone the repository:__
    ```bash
-   git clone https://github.com/yourusername/mysterymessage.git
+   git clone https://github.com/dhruv-jani/MysteryMessage.git
 
 2. __Install dependencies:__
     ```bash
